@@ -1,4 +1,8 @@
 ## Oii eu sou o Guilherme Rocha, estudante de programação e tecnologia!
+
+- 🔭 Procurando estágio em front-end
+- 🌱 Estudando JavaScript 
+
 <div align="center">
   <a href="https://github.com/guilhrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
