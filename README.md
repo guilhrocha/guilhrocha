@@ -1,6 +1,6 @@
 ## Oii eu sou o Guilherme Rocha, estudante de programação e tecnologia!
 
-- 🔭 Procurando estágio em front-end
+- 🔭 Procurando estágio em Desenvolvimento Front-end
 - 🌱 Estudando JavaScript 
 
 <div align="center">
