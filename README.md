@@ -1,4 +1,4 @@
-## Oii eu sou o Guilherme Rocha, estudante de programação e tecnologia!
+<h1>Oii eu sou o Guilherme, estudante de programação e tecnologia!</h1>
 
 - 🔭 Procurando estágio em Desenvolvimento Front-end
 - 🌱 Estudando JavaScript 
